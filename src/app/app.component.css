@@ -1,0 +1,9 @@
+.blur {
+  filter: blur(8px);
+}
+.bw {
+  filter: grayscale(100%);
+}
+.invert {
+  filter: invert();
+}
